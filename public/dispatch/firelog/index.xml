@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firelog on Jade&#39;s Fire</title>
+    <link>https://jadesfire.com/dispatch/firelog/</link>
+    <description>Recent content in Firelog on Jade&#39;s Fire</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jadesfire.com/dispatch/firelog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jade.Transmit.001</title>
+      <link>https://jadesfire.com/dispatch/jade-transmit-001/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jadesfire.com/dispatch/jade-transmit-001/</guid>
+      <description>Clarity is a weapon. Most people wield fog.</description>
+    </item>
+    <item>
+      <title>Jade.Transmit.004</title>
+      <link>https://jadesfire.com/dispatch/jade-transmit-004/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jadesfire.com/dispatch/jade-transmit-004/</guid>
+      <description>Most people call it burnout. I call it signal loss.</description>
+    </item>
+  </channel>
+</rss>

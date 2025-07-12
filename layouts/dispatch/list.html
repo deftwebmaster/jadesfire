@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <main>
+    <h1>Dispatch</h1>
+    <ul>
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Params.type }} — {{ . }}{{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}

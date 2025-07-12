@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Codex Flicker on Jade&#39;s Fire</title>
+    <link>https://jadesfire.com/dispatch/codex-flicker/</link>
+    <description>Recent content in Codex Flicker on Jade&#39;s Fire</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jadesfire.com/dispatch/codex-flicker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jade.Transmit.002</title>
+      <link>https://jadesfire.com/dispatch/jade-transmit-002/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jadesfire.com/dispatch/jade-transmit-002/</guid>
+      <description>When the fog creeps in, I don&amp;#39;t retreat — I recalibrate.</description>
+    </item>
+    <item>
+      <title>Jade.Transmit.005</title>
+      <link>https://jadesfire.com/dispatch/jade-transmit-005/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jadesfire.com/dispatch/jade-transmit-005/</guid>
+      <description>Sobriety isn’t just absence — it’s ignition.</description>
+    </item>
+    <item>
+      <title>Jade.Transmit.006</title>
+      <link>https://jadesfire.com/dispatch/jade-transmit-006/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jadesfire.com/dispatch/jade-transmit-006/</guid>
+      <description>Direction is fire. Forgiveness is release. And the system is a casino with loaded dice.</description>
+    </item>
+  </channel>
+</rss>

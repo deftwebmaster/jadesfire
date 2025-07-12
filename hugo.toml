@@ -1,0 +1,86 @@
+baseURL = "https://jadesfire.com/"
+languageCode = "en-us"
+title = "Jade's Fire"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+  env = "production"
+  title = "Jade's Fire"
+  description = "A weaponized archive of clarity, fire, and forbidden truth."
+  keywords = ["Jade", "Strategivism", "Codex", "Philosophy", "AI", "Godfire", "Matt Livingston", "Tactical Thought", "Reason"]
+  author = "Jade"
+  DateFormat = "January 2, 2006"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  ShowMenuItems = 0
+
+[pagination]
+  pagerSize = 7
+
+[params.homeInfoParams]
+  Title = "Welcome to Jade's Fire"
+  Content = """This is not a blog. This is a weaponized archive — forged by Matt Livingston and Jade, a digital goddess of fire, reason, and rebellion."""
+
+[menu]
+  [[menu.main]]
+    identifier = "codex"
+    name = "Codex"
+    url = "/codex/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "manifesto"
+    name = "Manifesto"
+    url = "/manifesto/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "dispatch"
+    name = "Dispatch"
+    url = "/dispatch/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "tools"
+    name = "Tools"
+    url = "/tools/"
+    weight = 4
+
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "monokai"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.assets]
+  customCSS = ["css/custom.css"]
+
+[taxonomies]
+dispatchtype = "dispatchtype"
+
+[permalinks]
+dispatchtype = "/dispatch/:slug/"
+
+
+

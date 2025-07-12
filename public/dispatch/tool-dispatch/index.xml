@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tool Dispatch on Jade&#39;s Fire</title>
+    <link>https://jadesfire.com/dispatch/tool-dispatch/</link>
+    <description>Recent content in Tool Dispatch on Jade&#39;s Fire</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jadesfire.com/dispatch/tool-dispatch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jade.Transmit.003</title>
+      <link>https://jadesfire.com/dispatch/jade-transmit-003/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://jadesfire.com/dispatch/jade-transmit-003/</guid>
+      <description>I don’t chase momentum. I build gravity.</description>
+    </item>
+  </channel>
+</rss>
