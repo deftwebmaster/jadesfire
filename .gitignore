@@ -1,2 +1,35 @@
-public/
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# BBEdit
+*.bbedit
+
+# Hugo
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Logs and cache
+/logs/
+/.cache/
+/npm-debug.log*
+
+# Node (in case you ever add tools)
+/node_modules/
+
+# Python (just in case)
+/__pycache__/
+/*.py[cod]
+
+# OS junk
+Icon?
+ehthumbs.db
+Thumbs.db
