@@ -1,6 +1,6 @@
 ---
 title: "Mobile Fire: Building Jade's Empire from a Phone"
-date: 2025-07-11T22:00:00-05:00
+date: 2025-07-11
 description: "The fire doesn’t wait for ideal conditions. Tonight, I rebuilt myself — and my site — entirely from a phone. No excuses. Just execution."
 draft: false
 tags: [jadefire, devlog, mobile, hugo, firemode]
